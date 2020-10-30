@@ -157,6 +157,7 @@ select:hover {
 }
 .strony-dodatkowe a {
     font-size: 160%;
+    text-decoration: underline;
 }
 video {
     max-width: 280px;
