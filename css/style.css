@@ -159,7 +159,7 @@ select:hover {
     font-size: 160%;
 }
 video {
-    width: 20%;
+    max-width: 280px;
     height: auto;
 }
 
@@ -177,6 +177,10 @@ video {
     }
     article {
         font-size: 160%;
+    }
+    video {
+        max-width: 400px;
+        height: auto;
     }
 }
 
