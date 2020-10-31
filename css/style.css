@@ -142,7 +142,7 @@ select:hover {
     width: 190px;
     margin: 5px;
     padding: 5px;
-    padding-top: 40px;
+    padding-top: 60px;
     text-align: center;
     margin-top: 60px;
     position: relative;
@@ -154,6 +154,8 @@ select:hover {
     font-weight: bold;
     top: -20px;
     left: 12.5px;
+    padding: 1px;
+    border-radius: 5px;
 }
 .strony-dodatkowe a {
     font-size: 160%;
