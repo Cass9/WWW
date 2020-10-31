@@ -169,7 +169,7 @@ video {
         grid-template-columns: repeat(3, 15%);
     }
     article {
-        font-size: 120%;
+        font-size: 110%;
     }
 }
 @media screen and (min-width: 480px) and (max-width:1024px){
@@ -177,7 +177,7 @@ video {
         grid-template-columns: repeat(2, 25%);
     }
     article {
-        font-size: 160%;
+        font-size: 130%;
     }
     video {
         max-width: 400px;
